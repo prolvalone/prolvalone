@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 - 🎓 New Grad Software Developer with a background in **Embedded Systems, Data Analysis, and Full-Stack Development**  
-- 🛠 Experienced with **STM32, Arduino, Raspberry Pi, C, Python, and R**  
-- 🔍 Interested in **low-level driver development, communication protocols, and real-world data analysis**  
-- 📊 Built projects ranging from **custom EEPROM drivers** to **crow population vs. West Nile Virus analysis** using large datasets  
+- 🛠 Experienced with **STM32, Arduino, Raspberry Pi, C, C++, Python, and R**  
+- 🔍 Interested in **Embedded Systems, Internet of Things, and real-world data analysis**  
+
 
 ---
 
