@@ -74,7 +74,7 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/christopher-prol/)  
-- 📧 christopherprol@example.com *(replace with your real email if you want it public)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/chris-prol-416570253/)  
+- 📧 christopher02michael@gmail.com
 
 ---
