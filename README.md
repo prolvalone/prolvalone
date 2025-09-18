@@ -51,7 +51,17 @@
 
 ## 📂 Featured Projects
 
-### 🔹 [STM32 Custom EEPROM Driver](https://github.com/prolvalone/STM32-EEPROM-Driver)
+
+---
+
+### 🔹 [COMET W.A.R.D.E.N. Internship Project](https://github.com/njii-comet-2024/WARDEN)
+- Built a **deployable recon system** with a **ground rover + drone**  
+- Integrated **Raspberry Pi + NVIDIA Jetson Orin Nano** for real-time object detection and video streaming  
+- Extended **Wi-Fi comms** using aerial relay node  
+
+---
+
+### 🔹 [STM32 Custom EEPROM Driver](https://github.com/prolvalone/STM32_Serial_Protocol_Project)
 - Wrote **custom low-level drivers** for the ATM93C46 EEPROM using **GPIO bit-banging**  
 - Implemented **read, write, and erase** operations per datasheet timing diagrams  
 - Built a **UART CLI interface** to issue commands from a PC  
@@ -63,15 +73,6 @@
 - Used **R and eBird datasets** to explore correlation between **crow populations** and **West Nile Virus incidence**  
 - Cleaned and merged **4GB+ datasets** into county-level summaries  
 - Produced **bivariate choropleth maps** of crow sightings vs. WNV rates in the US and California  
-
----
-
-### 🔹 [COMET W.A.R.D.E.N. Internship Project](https://github.com/njii-comet-2024/WARDEN)
-- Built a **deployable recon system** with a **ground rover + drone**  
-- Integrated **Raspberry Pi + NVIDIA Jetson Orin Nano** for real-time object detection and video streaming  
-- Extended **Wi-Fi comms** using aerial relay node  
-
----
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/chris-prol-416570253/)  
